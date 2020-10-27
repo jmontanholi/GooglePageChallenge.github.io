@@ -1,0 +1,62 @@
+h1{
+    font-size: 35px;
+    font-family: monospace;
+    text-align: center;
+    background-color: hsl(256, 100%, 10%);
+color: white
+}
+.topodapagina {
+    background-color: hsl(256, 100%, 10%);
+text-align: center;
+}
+a:hover{
+ color: cyan;
+}
+a:visited{
+text-decoration: none;
+color: white}
+
+.topo{
+display: inline;
+padding: 200px;
+}
+
+#mydata{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    margin-right: 50%;
+    padding-top: 10px;
+}
+h2{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: hsl(241, 100%, 50%) 3px 3px 3px;
+    padding-top: 80px;
+}
+
+body{
+   background:linear-gradient(90deg, white, grey);
+   font-family: Arial, Helvetica, sans-serif;
+}
+#mygoal{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 30px;
+text-align: left;
+margin-right: 50%;
+padding-top: 10px;
+}
+
+footer{
+    text-align: center;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+}
+.contato{
+    color: white;
+    background-color: hsl(256, 100%, 10%);
+    text-align: center;
+}
